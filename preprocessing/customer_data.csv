@@ -1,0 +1,9 @@
+CustomerID,Name,Age,Gender,Income,JoinDate,Country,Feedback
+1,John Doe,28,Male,50000,2021-06-15,USA,Good service
+2,Jane Smith,,Female,62000,2019-03-22,Canada,Excellent!
+3,Bob Johnson,45,,48000,2020-11-05,USA,Average
+4,Alice Brown,35,Female,,2021-02-17,UK,Poor service
+5,Tom White,52,Male,70000,2018-07-30,,Great
+6,Lisa Green,23,Female,52000,2022-01-12,USA,
+7,Michael Black,40,Male,0,2020-04-10,Canada,Excellent!
+8,Susan Blue,30,Female,58000,,USA,Good service
