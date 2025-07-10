@@ -1,9 +1,101 @@
 CustomerID,Name,Age,Gender,Income,JoinDate,Country,Feedback
-1,John Doe,28,Male,50000,2021-06-15,USA,Good service
-2,Jane Smith,,Female,62000,2019-03-22,Canada,Excellent!
-3,Bob Johnson,45,,48000,2020-11-05,USA,Average
-4,Alice Brown,35,Female,,2021-02-17,UK,Poor service
-5,Tom White,52,Male,70000,2018-07-30,,Great
-6,Lisa Green,23,Female,52000,2022-01-12,USA,
-7,Michael Black,40,Male,0,2020-04-10,Canada,Excellent!
-8,Susan Blue,30,Female,58000,,USA,Good service
+1,Alec Sheppard,64,Female,57227,2022-12-09,France,Average
+2,William Thornton,40,Male,91068,2023-04-17,Canada,Fine
+3,Lawrence Keller,56,Male,46529,2023-03-06,USA,Good service
+4,Christopher Garrett,61,Female,40193,2023-06-30,Germany,Fine
+5,Kristen Miller,54,Male,64939,2023-01-11,Australia,Loved it
+6,Kelly Navarro,22,Female,34231,2020-03-17,Australia,Very satisfied
+7,Kathleen Howard,66,Female,85722,2025-04-04,Canada,Excellent!
+8,Willie Jones,37,Male,52874,2022-04-18,Canada,Average
+9,Diane Wagner DVM,46,Female,44387,2020-04-16,Canada,Not bad
+10,Arthur Parks,39,Female,39165,2025-06-25,Canada,Disappointed
+11,Mr. Andrew Sharp,34,Male,25178,2021-08-17,Canada,Very satisfied
+12,Ryan Roberts,42,Male,28742,2020-06-05,Canada,Could be better
+13,Amber Johnson,66,Female,40999,2019-09-03,UK,Could be better
+14,Maria Williams,37,Male,48704,2020-06-18,Germany,Good service
+15,Daniel Porter,22,Female,85699,2024-06-22,UK,Terrible
+16,Ms. Morgan Medina,20,Female,29011,2025-02-09,Australia,Not bad
+17,Tara Brown,70,Female,59951,2021-07-25,Germany,Bad experience
+18,Colleen Thomas,19,Male,80198,2021-05-02,UK,Average
+19,Alexander Pierce,54,Female,47363,2025-02-02,UK,Not happy
+20,James Smith,47,Male,64983,2025-01-28,France,Fine
+21,Jeffrey Cox,62,Female,47680,2024-10-19,France,Great
+22,Cynthia Jones,25,Female,99712,2019-10-02,France,Terrible
+23,Robert Jenkins,21,Male,26680,2019-12-06,Germany,Not happy
+24,Johnny Preston,64,Male,99121,2022-07-26,USA,Excellent!
+25,Rose Woodard,51,Female,37785,2022-05-30,Germany,Excellent!
+26,James Gonzales,43,Male,82965,2022-11-19,Canada,Okay
+27,Steven King,70,Male,61712,2022-11-28,Australia,Great
+28,Brent Newman,36,Male,76364,2024-07-07,Australia,Very satisfied
+29,Veronica Costa,38,Male,76564,2024-06-12,Germany,Great
+30,Jason Thomas,66,Female,75460,2019-12-16,Australia,Okay
+31,Mr. Kenneth White,60,Female,97409,2023-09-24,Canada,Excellent!
+32,Kayla Wang,32,Male,20414,2024-04-05,Canada,Excellent!
+33,Collin Yu,65,Female,28984,2025-04-02,Canada,Very satisfied
+34,John White,68,Male,51642,2024-12-11,Germany,Not happy
+35,Steven Allen,37,Male,62745,2023-11-07,Australia,Very satisfied
+36,Melanie Martinez,21,Female,46820,2024-06-16,Germany,Could be better
+37,Nicholas Long,41,Male,86381,2020-10-06,Germany,Terrible
+38,Craig Wright,54,Male,50591,2023-06-03,Germany,Good service
+39,Jeffery Tate,60,Male,57114,2023-03-26,UK,Good service
+40,Brian Wilkerson,31,Male,21939,2024-11-20,Australia,Very satisfied
+41,Jamie Wilson,56,Female,43202,2024-08-09,UK,Disappointed
+42,Kiara Petty,25,Female,88853,2023-03-18,USA,Good service
+43,Carl Johnson,35,Female,71073,2019-12-10,Canada,Bad experience
+44,Samuel Holland,70,Male,60147,2023-09-27,Australia,Good service
+45,Christina Avery,46,Male,42080,2024-07-06,France,Not happy
+46,Brad Reyes,22,Male,72944,2025-04-20,UK,Terrible
+47,Sara Sanders,39,Female,53740,2019-09-10,Germany,Terrible
+48,Dr. Shawn Davis,39,Female,38210,2020-10-07,USA,Could be better
+49,Paul Brooks,31,Female,82743,2023-10-07,France,Not bad
+50,Carol Hall,57,Male,89550,2025-02-04,Australia,Bad experience
+51,Nicholas Moore,65,Female,42239,2025-06-29,Germany,Bad experience
+52,Julia Nguyen,48,Female,71594,2023-05-30,Australia,Bad experience
+53,Brittany Terry PhD,21,Male,46843,2021-12-02,USA,Great
+54,Kendra Nash,60,Female,47830,2021-01-01,Canada,Poor service
+55,Jeffrey Mendoza,51,Male,89726,2021-09-29,Germany,Loved it
+56,Victor Rogers,51,Male,71004,2024-06-26,UK,Okay
+57,Stephanie Dillon,60,Male,25413,2024-08-04,Australia,Poor service
+58,Willie Richardson,53,Female,21664,2023-06-27,Germany,Disappointed
+59,Bryan Jones,55,Female,96812,2020-06-03,UK,Poor service
+60,Kristin Nelson,48,Female,93131,2022-01-08,UK,Fine
+61,Rhonda Brown,70,Male,94338,2019-07-31,Canada,Excellent!
+62,Rachel Gomez,33,Male,95815,2022-11-10,Australia,Bad experience
+63,Jesus Reid,52,Female,96035,2021-07-07,France,Loved it
+64,Christopher Tate,22,Male,26398,2022-11-18,Australia,Excellent!
+65,Heather Hernandez,41,Female,42191,2021-08-13,USA,Could be better
+66,Crystal Wilson,56,Male,70735,2025-06-07,Germany,Okay
+67,Stacey Hernandez,20,Male,79154,2020-07-18,Australia,Okay
+68,Angela Rodgers,35,Male,20560,2021-06-03,Canada,Fine
+69,John Lopez,19,Male,39025,2022-06-08,Canada,Bad experience
+70,Benjamin Bass,41,Male,32060,2025-06-28,Australia,Poor service
+71,Andrew Thompson,32,Female,58334,2021-03-04,Australia,Bad experience
+72,Julia Bryan,30,Female,81524,2022-09-05,France,Loved it
+73,Bernard Cox,70,Male,36870,2020-09-30,Australia,Loved it
+74,Barbara Douglas,65,Male,96345,2022-09-25,USA,Okay
+75,Cheyenne Smith,32,Female,49422,2023-03-08,Germany,Bad experience
+76,Megan Mcguire,68,Female,75013,2023-11-04,Australia,Very satisfied
+77,Joseph Baker MD,55,Male,59078,2025-01-30,France,Very satisfied
+78,Jose Mays,23,Female,51386,2022-03-12,USA,Not happy
+79,Andrew Summers,64,Female,20677,2024-11-15,USA,Fine
+80,Annette Glover,44,Male,50103,2024-02-22,UK,Good service
+81,Elizabeth Newton MD,51,Female,61840,2024-01-29,UK,Disappointed
+82,Tracy Lopez,28,Male,71100,2022-09-08,Germany,Disappointed
+83,Christopher Raymond,46,Male,34667,2022-07-07,UK,Fine
+84,John Orr,31,Female,41130,2022-06-24,France,Disappointed
+85,Samantha King,47,Female,76721,2022-01-06,USA,Okay
+86,Michael Walters,19,Male,95860,2024-01-01,France,Could be better
+87,Levi Burgess,45,Female,44262,2024-12-28,USA,Good service
+88,Tina Murphy,25,Male,21339,2021-02-14,Canada,Loved it
+89,Henry Jones,22,Female,64519,2025-03-19,Germany,Bad experience
+90,Angelica Nicholson,25,Male,28317,2023-03-20,UK,Could be better
+91,John Miller,57,Male,88432,2020-02-21,UK,Terrible
+92,Cynthia Bender,30,Female,95043,2020-08-07,France,Good service
+93,Mary Bradley,64,Female,53088,2020-01-06,Australia,Not bad
+94,Rebecca Young,28,Male,60504,2021-01-15,UK,Average
+95,Jordan Hamilton,18,Female,66667,2022-04-20,Australia,Not happy
+96,Tara Decker,67,Female,20959,2022-11-15,Germany,Average
+97,Alejandro Hudson,67,Male,22157,2021-03-19,UK,Could be better
+98,Jonathon Williams,48,Male,85584,2019-09-03,UK,Disappointed
+99,Jamie Mcintosh,29,Male,34418,2021-06-16,UK,Very satisfied
+100,Crystal Johnson,55,Male,99338,2020-04-07,Australia,Very satisfied
