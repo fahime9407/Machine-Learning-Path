@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # Machine Learning Learning Path 🌱
 
 Welcome to my Machine Learning journey!  
@@ -94,4 +93,3 @@ I have a background in IT and Python programming, and I’m documenting my progr
 If you find this helpful, feel free to ⭐ star the repo or share feedback.
 Thanks for visiting!
 
-```
